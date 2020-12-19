@@ -1,0 +1,18 @@
+some es6 importent topics
+
+var vs let vs const 
+---------- // var -> function
+---------- // let -> block
+---------- // const -> block use const over let
+
+object  
+this keyword
+arrow function 
+arrow function and this
+array.map
+object destructuring
+spread operators
+classes
+inheritance
+modules
+name and default exports
